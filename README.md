@@ -21,6 +21,9 @@ You're all set. Take a look at the Criteria below, then head to the Milestones a
 
 
 [mini-Project Criteria]
+
 Required Tech Stack: p5 Libary
+
 Required Functionality: Mouse Events, User interaction
+
 Other Requirements: Cross-browser functionality
