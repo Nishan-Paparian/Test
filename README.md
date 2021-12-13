@@ -1,5 +1,4 @@
 # MagicBrush
-!Start Here!
 
 Welcome to the /Insert Title/ TUMOLabs mini-project.
 
